@@ -13,7 +13,10 @@ package com.cg.abs;
 	
 	public void display() {
 		
+		System.out.println("************");
 		System.out.println(this.name+this.age);
+		
+		
 	}
 
 
